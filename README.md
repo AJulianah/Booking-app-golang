@@ -1,3 +1,3 @@
 # Booking-app-golang
 
-Pour le lancer: $go run .
+Pour le lancer: go run .
